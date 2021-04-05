@@ -1,0 +1,12 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+.metadata
+.visibility.iml
+/example/build
+/example/visibility_example.iml
+/example/.metadata
